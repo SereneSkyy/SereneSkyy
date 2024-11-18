@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SereneSkyy ..you can call me Saurav as I go by the name Saurav Raj Khanal.
 - 👀 I’m interested in Machine Learning, AI and a little bit of art and multimedia.
-- 🌱 I’m currently learning Python in Data Science and DSA.
+- 🌱 I’m currently learning Python in Data Science.
 - 💞️ I’m looking to collaborate on projects related to programming stuffs. 
 - 📫 How to reach me is , you can contact me on **sauravkhanal44@gmail.com**
 - 😄 Pronouns: he/him
